@@ -1,0 +1,18 @@
+TUGAS MANDIRI 1
+
+Ibu pergi ke pasar membeli telur sebanyak 5 kilogram
+untuk membuat kue, harga 1 kilo gram telor adalah 26000
+perkilogram. Untuk pergi ke pasar ibu harus naik angkot pp
+(pulang pergi) dengan tarip Rp 3500 sekali naik angkot.
+Pertanyaan: Berapakah sisa uang jika ibu membawa uang
+sebesar Rp 200.000,-
+
+Identifikasi masalah
+
+Input: berat telur(brt), harga telur (hrg), transport(ongkos)
+uang ibu(uang)
+Output: sisa uang(sisa)
+
+Buatlah Programnya dengan Python!
+
+Answer : 
